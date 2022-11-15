@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fritzgy Lubin</h1>
-<h3 align="center">A Full-stack software developer from France. Passionated about clean code and software architecture.</h3>
+<h3 align="center">A full-stack software developer from France. Passionated about clean code and software architecture.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fritzgyl&label=Profile%20views&color=0e75b6&style=flat" alt="fritzgyl" /> </p>
 
